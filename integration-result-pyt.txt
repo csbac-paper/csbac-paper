@@ -1,0 +1,39 @@
+ok  	k8s.io/kubernetes/test/integration	160.880s
+ok  	k8s.io/kubernetes/test/integration/auth	1.382s
+ok  	k8s.io/kubernetes/test/integration/client	7.930s
+ok  	k8s.io/kubernetes/test/integration/configmap	0.092s
+ok  	k8s.io/kubernetes/test/integration/garbagecollector	215.192s
+ok  	k8s.io/kubernetes/test/integration/kubectl	0.353s
+ok  	k8s.io/kubernetes/test/integration/master	1.832s
+ok  	k8s.io/kubernetes/test/integration/metrics	0.165s
+ok  	k8s.io/kubernetes/test/integration/openshift	0.019s
+ok  	k8s.io/kubernetes/test/integration/persistentvolumes	60.680s
+ok  	k8s.io/kubernetes/test/integration/pods	3.613s
+ok  	k8s.io/kubernetes/test/integration/quota	0.883s
+ok  	k8s.io/kubernetes/test/integration/scheduler	80.237s
+ok  	k8s.io/kubernetes/test/integration/secrets	0.168s
+ok  	k8s.io/kubernetes/test/integration/serviceaccount	24.420s
+
+total	557.846s
+
+
+========================================================================
+
+ok  	k8s.io/kubernetes/test/integration	198.395s
+ok  	k8s.io/kubernetes/test/integration/auth	109.781s
+ok  	k8s.io/kubernetes/test/integration/client	37.196s
+ok  	k8s.io/kubernetes/test/integration/configmap	3.748s
+ok  	k8s.io/kubernetes/test/integration/garbagecollector	253.084s
+ok  	k8s.io/kubernetes/test/integration/kubectl	0.607s
+ok  	k8s.io/kubernetes/test/integration/master	31.144s
+ok  	k8s.io/kubernetes/test/integration/metrics	2.621s
+ok  	k8s.io/kubernetes/test/integration/openshift	0.042s
+FAIL	k8s.io/kubernetes/test/integration/persistentvolumes	601.773s
+ok  	k8s.io/kubernetes/test/integration/pods	20.079s
+ok  	k8s.io/kubernetes/test/integration/quota	181.820s
+ok  	k8s.io/kubernetes/test/integration/scheduler	118.182s
+ok  	k8s.io/kubernetes/test/integration/secrets	7.271s
+ok  	k8s.io/kubernetes/test/integration/serviceaccount	45.492s
+
+total 	1611.235s
+
